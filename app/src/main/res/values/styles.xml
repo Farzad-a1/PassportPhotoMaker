@@ -1,0 +1,5 @@
+<resources>
+    <style name="Theme.Passport" parent="android:style/Theme.Material.Light.NoActionBar"><item name="android:fontFamily">sans</item><item name="android:windowLightStatusBar">true</item><item name="android:colorAccent">#1565D8</item></style>
+    <style name="Theme.Passport.Starting" parent="Theme.SplashScreen"><item name="windowSplashScreenBackground">#EAF3FF</item><item name="windowSplashScreenAnimatedIcon">@drawable/ic_brand</item><item name="postSplashScreenTheme">@style/Theme.Passport</item></style>
+    <color name="icon_blue">#1565D8</color>
+</resources>
